@@ -13,7 +13,7 @@ OUT = HERE
 SRC = os.path.join(HERE, "_src_pages")
 
 # where this build is actually served from — used for canonical + og:url
-BASE = "https://thecozycod3r.github.io/cauvery-peak-v2"
+BASE = "https://thecozycod3r.github.io/cauvery-peak"
 
 # The nav carries the story. The three things we want people to DO are
 # buttons, not nav items — "Coffee" and "Shop" used to be two doors to the
